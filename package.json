@@ -1,0 +1,23 @@
+{
+  "name": "socket-to-serial",
+  "version": "1.0.0",
+  "description": "convert tcp socket messages to serial uart using raspberry pi 3",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex639hz/socket-to-serial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex639hz/socket-to-serial/issues"
+  },
+  "homepage": "https://github.com/alex639hz/socket-to-serial#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
